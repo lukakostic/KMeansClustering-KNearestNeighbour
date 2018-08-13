@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMeans", "KMeans\KMeans.csproj", "{A323BFBC-32C9-44A1-8763-551B557DD231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A323BFBC-32C9-44A1-8763-551B557DD231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A323BFBC-32C9-44A1-8763-551B557DD231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A323BFBC-32C9-44A1-8763-551B557DD231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A323BFBC-32C9-44A1-8763-551B557DD231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6D8A3A5-0C38-48C9-993A-370C71F7B8FD}
+	EndGlobalSection
+EndGlobal

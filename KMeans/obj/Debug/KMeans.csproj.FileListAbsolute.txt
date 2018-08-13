@@ -1,0 +1,9 @@
+D:\LukaProjekti\KMeans\KMeans\bin\Debug\KMeans.exe.config
+D:\LukaProjekti\KMeans\KMeans\bin\Debug\KMeans.exe
+D:\LukaProjekti\KMeans\KMeans\bin\Debug\KMeans.pdb
+D:\LukaProjekti\KMeans\KMeans\obj\Debug\KMeans.csprojResolveAssemblyReference.cache
+D:\LukaProjekti\KMeans\KMeans\obj\Debug\KMeans.Form1.resources
+D:\LukaProjekti\KMeans\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+D:\LukaProjekti\KMeans\KMeans\obj\Debug\KMeans.csproj.GenerateResource.Cache
+D:\LukaProjekti\KMeans\KMeans\obj\Debug\KMeans.exe
+D:\LukaProjekti\KMeans\KMeans\obj\Debug\KMeans.pdb
